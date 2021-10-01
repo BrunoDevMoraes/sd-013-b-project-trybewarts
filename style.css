@@ -1,0 +1,71 @@
+/* all */
+* {
+  margin: 0;
+}
+
+/* header */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.trybewarts-header-logo {
+  height: 100px;
+}
+
+.header , form {
+  background-color: rgb(50, 167, 145);
+  display: flex;
+  justify-content: space-between;
+}
+
+main {
+  display: flex;
+}
+
+#evaluation-form {
+  display: flex;
+  flex-direction: column;
+  width: 675px;
+}
+
+/* Logo Colorida */
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+/* Requisito 12 */
+#choose-family {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Requisito 14 */
+#rating {
+  display: flex;
+}
+
+#family-and-rating {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Footer */
+#rodapé {
+  background-color: rgb(50, 167, 145);
+  width: 675px;
+}
+
+#contents {
+  display: flex;
+  flex-direction: column;
+}
+
+#nes {
+  display: flex;
+}
+
+#email-plus-house {
+  display: flex;
+}
